@@ -1,7 +1,6 @@
 class Student
   
-  def initialize 
-    @hello = hello 
+  def hello 
     hello = "Hey there! I'm so excited to learn stuff."
   end
   
